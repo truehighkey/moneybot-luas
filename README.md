@@ -16,5 +16,6 @@
 </p>
 <br>
 <h3 align="center"><strong>Special Thanks</strong></h3>
-<br>
-<a align="center" href="https://github.com/ViperGMs"><strong>ViperGM</strong></a>
+<p align="center">
+  <a href="https://github.com/ViperGMs"><strong>ViperGM</strong></a>
+</p>
