@@ -14,10 +14,7 @@
   -
   <a align="center" href="https://steamcommunity.com/groups/zlotybot">Steam Group</a>
 </p>
-
-
-## Special Thanks
-- [ViperGM](https://github.com/ViperGMs)
-- [Rome](https://github.com/romeauthentic)
-- [Celestial](https://github.com/bestowal)
-- [Cowboy](https://github.com/muladaboss)
+<br>
+<h3 align="center"><strong>Special Thanks</strong></h3>
+<br>
+<a align="center" href="https://github.com/ViperGMs"><strong>ViperGM</strong></a>
