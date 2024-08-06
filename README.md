@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://moneybot.cash">
-  <img src="https://www.moneybot.cash/includes/logo.png" width="512">
+  <img src="https://raw.githubusercontent.com/truehighkey/moneybot-luas/main/moneybot.png" width="512">
 </a>
 </p>
 
